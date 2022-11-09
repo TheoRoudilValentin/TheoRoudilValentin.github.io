@@ -12,7 +12,6 @@ redirect_from:
 You can find my full CV [here](https://theoroudilvalentin.github.io/files/.pdf)
 
 ## Education
-======
 * Institut Polytechnique de Paris, M.S. Econometrics, 2022
 * ENSAE Paris, Economics and Statistics Engineering Degree, 2019-2022
 * Ecole Normale Supérieure (ENS) Paris-Saclay, Economics Degree, 2017-2022
