@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at [CREST](crest.science), [ENSAE Paris](ensae.fr), [Institut Polytechnique de Paris](ip-paris.fr) under the supervision of [Pierre Boyer](https://pierrecboyer.com/) and [Michael Visser](https://faculty.crest.fr/mvisser/) since September 2022.
+I am a PhD candidate at [CREST](https://crest.science/), [ENSAE Paris](https://www.ensae.fr/en/), [Institut Polytechnique de Paris](https://www.ip-paris.fr/en) under the supervision of [Pierre Boyer](https://pierrecboyer.com/) and [Michael Visser](https://faculty.crest.fr/mvisser/) since September 2022.
 
 My interest lies mainly in Public Economics, especially in Firms' taxation, tax evasion, environmental taxation. I am also interested in studying robust and generalized econometric techniques such as partial identification or non-parametric econometrics, in order to apply them in my research. Additionally, I am curious about the Theory of the Firm and the way one can model production functions.
 
