@@ -9,13 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+You can find my full CV [here](https://theoroudilvalentin.github.io/files/.pdf)
 
-Work experience
+## Education
+======
+* Institut Polytechnique de Paris, M.S. Econometrics, 2022
+* ENSAE Paris, Economics and Statistics Engineering Degree, 2019-2022
+* Ecole Normale Supérieure (ENS) Paris-Saclay, Economics Degree, 2017-2022
+
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -25,8 +27,8 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+  * Supervisor: Professor Hub 
+
 Skills
 ======
 * Skill 1
@@ -56,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
