@@ -1,16 +1,13 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<!-- ## Work in Progress -->
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Non-academic Publications & Papers
+* [En 2020, la chute de la consommation a alimenté l’épargne, faisant progresser notamment les hauts patrimoines financiers : quelques résultats de l’exploitation de données bancaires](https://www.insee.fr/fr/statistiques/5232043?sommaire=5232077), Note de conjoncture, 2021 (available in english [here](https://www.insee.fr/en/statistiques/5351886?sommaire=5233864))
+* [Prédire l’activité économique à partir d’articles de presse](http://jms-insee.fr/jms2022s19_2/), Journées de Méthodologie Statistique de l'INSEE, 2022
