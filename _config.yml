@@ -140,7 +140,7 @@ exclude:
   - LICENSE
   - README
   - Rakefile
-  - assets # ajout pour test dark mode
+ # - assets # ajout pour test dark mode
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
