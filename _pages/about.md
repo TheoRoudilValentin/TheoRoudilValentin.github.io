@@ -10,7 +10,9 @@ redirect_from:
 
 I am a PhD candidate at [CREST](https://crest.science/), [ENSAE Paris](https://www.ensae.fr/en/), [Institut Polytechnique de Paris](https://www.ip-paris.fr/en) under the supervision of [Pierre Boyer](https://pierrecboyer.com/) and [Michael Visser](https://faculty.crest.fr/mvisser/) since September 2022.
 
-My interest lies mainly in Public Economics, especially in Firms' taxation, tax evasion, environmental taxation. I am also interested in studying robust and generalized econometric techniques such as partial identification or non-parametric econometrics, in order to apply them in my research. Additionally, I am curious about the Theory of the Firm and the way one can model production functions.
+My interest lies mainly in Public Economics, especially in Firms' taxation, tax evasion and consent. Within Public Economics, I am also interested in how economic agents make their decisions with respect to taxes.
+
+<!-- Secondarily, in studying robust and generalized econometric techniques such as partial identification or non-parametric econometrics, in order to apply them in my research. Additionally, I am curious about the Theory of the Firm and the way one can model production functions. -->
 
 __Contact__: [theo.roudil-valentin@ensae.fr](theo.roudil-valentin@ensae.fr)
 
