@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my full CV [here](https://theoroudilvalentin.github.io/files/.pdf)
+You can find my full CV [here](https://theoroudilvalentin.github.io/files/Curriculum_Vitae_woWInP.pdf)
 
 ## Education
 * Institut Polytechnique de Paris, M.S. Econometrics, 2022
