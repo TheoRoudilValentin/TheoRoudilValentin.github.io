@@ -7,7 +7,7 @@ author_profile: true
 
 ## Work in Progress
 
-* Corporate taxation and small firms' responses\
+* **Corporate taxation and small firms' responses**\
 _Since 2001, different reforms have been implemented in France to reduce the corporate income tax rate, aiming at
 fostering investment and employment, especially for small firms through reduced tax rate using kinks and notches.
 I find large bunching at the kink but small bunching at the notch, both introduced by the reforms. Surprisingly, the
