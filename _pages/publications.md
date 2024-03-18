@@ -8,16 +8,15 @@ author_profile: true
 ## Work in Progress
 
 * **Corporate taxation and small firms' responses**\
-_Since 2001, different reforms have been implemented in France to reduce the corporate income tax rate, aiming at
-fostering investment and employment, especially for small firms through reduced tax rate using kinks and notches.
-I find large bunching at the kink but small bunching at the notch, both introduced by the reforms. Surprisingly, the
-bunching mass at the kink is evolving non-monotonically, growing from 2001 to 2012 and decreasing thereafter. I find
-evidence that firms come mostly from below the kink, as predicted by the theory. Firms in the bunching mass come
-from far below the kink, suggesting that firms have very different elasticities. Younger firms seem to react quicker
-than older firms. The kink seems to act as a brake, reducing transitions from below the kink to the above range.
-Using the standard Saez [2010] technique, I find an elasticity of taxable income of −0.27, close to a non-parametric
-estimation. Finally, I show that, theoretically, the bunching decision is driven by differences in productivity across
-firms._
+_This paper estimates the elasticity of taxable income to the corporate income tax (CIT) using
+a 20-years panel of tax administrative data on French companies. I leverage the implementation
+of a kink at 38.120AC in the CIT in 2001, under which the tax rate is reduced from 33.3% to 15%.
+I find large and dynamic bunching at the kink, up to 17% of the normal number of firms in 2012.
+This allows me to compute the elasticity of taxable income to the CIT rate, which ranges from
+-0.05 the first year of the reform to -0.23 ten years after. From 2013 onward, the bunching mass
+decreases which coincides with the introduction of a new payroll tax credit. Firms in the bunching
+mass come from below the kink and for some of them, far from it: more than 6.5 times below the
+kink, suggesting that they have very heterogeneous elasticities._
 
 
 ## Non-academic Publications & Papers
