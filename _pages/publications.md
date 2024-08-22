@@ -8,15 +8,20 @@ author_profile: true
 ## Work in Progress
 
 * **Corporate taxation and small firms' responses**\
-_This paper estimates the elasticity of taxable income to the corporate income tax (CIT) using
-a 20-years panel of tax administrative data on French companies. I leverage the implementation
-of a kink at 38.120AC in the CIT in 2001, under which the tax rate is reduced from 33.3% to 15%.
-I find large and dynamic bunching at the kink, up to 17% of the normal number of firms in 2012.
-This allows me to compute the elasticity of taxable income to the CIT rate, which ranges from
--0.05 the first year of the reform to -0.23 ten years after. From 2013 onward, the bunching mass
-decreases which coincides with the introduction of a new payroll tax credit. Firms in the bunching
-mass come from below the kink and for some of them, far from it: more than 6.5 times below the
-kink, suggesting that they have very heterogeneous elasticities._
+_This paper studies how firms learn changes in the tax schedule, how much avoidance is important
+in their behavior and what is the impact of both on the elasticity of taxable income to the
+corporate income tax (CIT). To do so, I use a 20-years panel of tax administrative data on French
+companies with French exhaustive employer-employee data. I leverage the implementation of a
+kink at 38.120AC in the CIT in 2001, under which the tax rate is reduced from 33.3% to 15%.
+I show that firms take years to understand correctly the tax code. On average, it takes 5 years
+for firms to be correct on their tax liability. I find large and dynamic bunching at the kink, up to
+17% of the normal number of firms in 2012. This allows me to compute the elasticity of taxable
+income to the CIT rate, which ranges from 0.03 the first year of the reform to 0.29 ten years after.
+This dynamic pattern is largely explained by learning and also partly by the creation of new firms
+exactly at the kink. From 2013 onward, the bunching mass decreases which coincides with the
+introduction of a new payroll tax credit. Finally, I show that avoidance explains at least a part
+of the observed bunching, while the productivity channel is not consistent with how firms react
+around the kink._
 
 
 ## Non-academic Publications & Papers
