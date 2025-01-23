@@ -22,7 +22,7 @@ exactly at the kink. From 2013 onward, the bunching mass decreases which coincid
 introduction of a new payroll tax credit. Finally, I show that avoidance explains at least a part
 of the observed bunching, while the productivity channel is not consistent with how firms react
 around the kink._\
-**Paper presented at**: CREST 1st year PhD students Workshop (Paris, 2023), CREST Firms & Market Seminar (Paris, 2024), CESifo Public Economics Area Conference (Munich, 2024), ZEW Public Finance Conference (Mannheim 2024), The 80th Annual Congress of the International Institute of Public Finance (Prague, 2024)
+**Paper presented at**: CREST 1st year PhD students Workshop (Paris, 2023), CREST Firms & Market Seminar (Paris, 2024), CESifo Public Economics Area Conference (Munich, 2024), ZEW Public Finance Conference (Mannheim 2024), The 80th Annual Congress of the International Institute of Public Finance (Prague, 2024), CREST-INSEE Workshop (Montrouge, 2024), PSE Applied Economics Seminar (Paris, 2024), UC Santa Barbara Brown Bag Seminar (Santa Barbara, 2025)
 
 
 ## Non-academic Publications & Papers
