@@ -10,7 +10,7 @@ redirect_from:
 
 I am a 3rd year PhD candidate at [CREST](https://crest.science/), [ENSAE Paris](https://www.ensae.fr/en/), [Institut Polytechnique de Paris](https://www.ip-paris.fr/en) under the supervision of [Pierre Boyer](https://pierrecboyer.com/) and [Michael Visser](https://faculty.crest.fr/mvisser/) since September 2022. 
 
-I am visiting the University of California, Berkeley, hosted by Emmanuel Saez for the 2025 Spring semester.
+I am visiting the **University of California, Berkeley**, hosted by **Emmanuel Saez** for the **2025 Spring semester**.
 
 My interest lies mainly in **Public Economics**. More precisely in
 * corporate taxation
